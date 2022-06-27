@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/rigid-market-u3vcc.blank-l4w73giw",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve pd6LZlybrxWUPL3EqjUX --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
