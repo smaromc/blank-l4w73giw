@@ -213,6 +213,11 @@
           "type": "color",
           "description": "Darken 35%"
         }
+      },
+      "test": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "test"
       }
     },
     "Foreground": {
